@@ -1,0 +1,39 @@
+.navdiv {
+    height: 40px;
+    padding: 8px;
+    background-color: grey;
+    color: white;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    padding: 20px;
+}
+
+.navlink {
+    background-color: whitesmoke;
+}
+
+.linkclass {
+    text-decoration: none;
+}
+
+.footer {
+    position: flex;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.innercard{
+    padding: 10px;
+    border-radius: 0px;
+}
+
+.para{
+    text-align: center;
+    text-decoration: justify;
+}

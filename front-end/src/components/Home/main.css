@@ -1,0 +1,26 @@
+.extra{
+    height: 30px;
+    padding: 10px;
+}
+.cardmess{
+    padding: 10px;
+}
+.idimage{
+    height: 300px;
+    width: auto;
+}
+
+.idimage2{
+    height: 230px;
+    width: 10px;
+    border-radius: 45%;
+}
+
+.text-black{
+    height: 400px;
+    border-radius: 25px;
+}
+
+i{
+    margin-left: 5px;
+}
