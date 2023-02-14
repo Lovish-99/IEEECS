@@ -31,6 +31,38 @@ const Event = () => {
           </MDBCardBody>
         </MDBCard>
     </MDBRow>
+
+    <MDBRow style={{height: "30px"}}></MDBRow>
+      <MDBRow>
+        <MDBCard>
+          <MDBCardBody>
+            <MDBRow>
+              <MDBCol md={3}><img src='./images/IEEE-CS_Logo.png' alt='tag'/></MDBCol>
+              <MDBCol md={9}>
+                <h6>Event DATE: <i class="fa-solid fa-calendar-check"></i></h6>
+                <h3>Event Name</h3>
+                <p>Event Tag Line</p>
+              </MDBCol>
+            </MDBRow>
+          </MDBCardBody>
+        </MDBCard>
+    </MDBRow>
+
+    <MDBRow style={{height: "30px"}}></MDBRow>
+      <MDBRow>
+        <MDBCard>
+          <MDBCardBody>
+            <MDBRow>
+              <MDBCol md={3}><img src='./images/IEEE-CS_Logo.png' alt='tag'/></MDBCol>
+              <MDBCol md={9}>
+                <h6>Event DATE: <i class="fa-solid fa-calendar-check"></i></h6>
+                <h3>Event Name</h3>
+                <p>Event Tag Line</p>
+              </MDBCol>
+            </MDBRow>
+          </MDBCardBody>
+        </MDBCard>
+    </MDBRow>
     </MDBContainer >
   )
 }
