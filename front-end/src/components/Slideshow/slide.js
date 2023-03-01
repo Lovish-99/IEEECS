@@ -4,7 +4,7 @@ import './slide.css';
 const Slide = () => {
     const colors = ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJ5-Wv8ObDeAAq0vOS63rYcWGeDwCI-9-ow&usqp=CAU", 
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteiWOtcKdaDmX4XYaxyBqtSpAHoyHCillYQ&usqp=CAU", 
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-reK8l-UQknuNBw5qJmn2FgVAuyo9Fsu5bw&usqp=CAU"];
+    ];
     const delay = 2500;
 
     const [index, setIndex] = React.useState(0);
