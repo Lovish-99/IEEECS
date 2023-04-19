@@ -21,6 +21,7 @@ function Admin() {
             <MDBCol md={4} style={{textAlign: "center"}}><Link to="/admin/editgallery"><MDBBtn>IEEE-CS Gallery</MDBBtn></Link></MDBCol>
           </MDBBtnGroup>
         </MDBRow>
+        
         <MDBRow>
           <Outlet/>
         </MDBRow>
